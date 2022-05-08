@@ -23,6 +23,9 @@ def solution(numbers, hand):
                     elif col == 2:
                         answer += "R"
                     else:
+                        for row in range(len(keypad)):
+                            for col in range(len(keypad[0])):
+                                if keypad[]
                         leftDis = (row - )
 
 
